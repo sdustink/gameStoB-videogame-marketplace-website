@@ -2,6 +2,9 @@
 
 A responsive video game marketplace website designed and developed to provide users with a simple interface for browsing video games and completing purchases.
 
+Available via Github pages here:
+https://sdustink.github.io/gameStoB-videogame-marketplace-website/
+
 ## 📊 Dataset
 
 The project does not use a conventional dataset. Game information, images, and other marketplace content are stored and displayed directly within the website.
